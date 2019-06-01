@@ -15,3 +15,13 @@ A continuación, lo haremos de forma secuencial
 ![alt text](https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/resultado_rosalind_sin_paralell.PNG)
 
 Como podemos comprobar el resultado es prácticamente el mismo. Ahora cambiaremos la secuencia del archivo dnafile.txt por otra más grande para ver bien los cambios.
+
+En la siguiente imagen se ve el resultado del programa ejecutado de forma secuencial:
+
+![alt text](https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/resultado_sin_paralell.PNG)
+
+Por contra posición, ahora vemos el programa ejecutado de forma paralela:
+
+![alt text](https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/resultado_con_paralell.PNG)
+
+Podemos ver que hay una reducción del tiempo de ejecución, que era lo que se esperaba.
