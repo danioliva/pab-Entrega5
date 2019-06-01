@@ -18,7 +18,7 @@ public class CountDNA {
 	    long initTime = System.currentTimeMillis();
 	    try (Stream<String> stream = Files.lines(Paths.get(args[0]))) {
 	      resultado = stream
-	    		  
+	    		  //.paralell() esta función se pone o no dependiendo de si queremos hacerlo de forma secuencial o paralela
 	              .map(
 	            	line -> {
 	            	  long[] localCounts = new long[4];
