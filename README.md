@@ -12,6 +12,6 @@ Primero vamos a ejecutar el programa de forma paralela y el resultado obtenido c
 
 A continuación, lo haremos de forma secuencial
 
-![alt text] (https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/resultado_rosalind_sin_paralell.PNG)
+![alt text](https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/resultado_rosalind_sin_paralell.PNG)
 
 Como podemos comprobar el resultado es prácticamente el mismo. Ahora cambiaremos la secuencia del archivo dnafile.txt por otra más grande para ver bien los cambios.
