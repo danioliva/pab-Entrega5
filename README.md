@@ -8,4 +8,4 @@ De esta manera primero vamos a comenzar aplicando nuestro programa a la secuenci
 
 Primero vamos a ejecutar el programa de forma secuencial y el resultado obtenido con su tiempo es:
 
-![alt text](https://raw.githubusercontent.com/danioliva/pab-Entrega5/tree/master/capturas_readme/resultado_rosalind.PNG) 
+![alt text](https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/resultado_rosalind.PNG) 
