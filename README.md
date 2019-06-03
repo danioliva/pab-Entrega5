@@ -25,3 +25,7 @@ Por contra posición, ahora vemos el programa ejecutado de forma paralela:
 ![alt text](https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/resultado_con_paralell.PNG)
 
 Podemos ver que hay una reducción del tiempo de ejecución, que era lo que se esperaba.
+
+Vamos a hacer una gráfica que nos muestre una comparación de los tiempos expuestos anteriormente y nos los clasifique en tiempo secuencial y tiempo en paralelo con las respectivas secuencias.
+
+![alt text](https://github.com/danioliva/pab-Entrega5/blob/master/capturas_readme/comparacion_tiempos.png)
